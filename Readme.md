@@ -3,11 +3,11 @@
 ![SF!](1622401392080.jpg)
 
 ## About Me 👦
-* 🏫 Student at Purdue University <br>
+*💼 Student at Purdue University <br>
 
 * 🏠 San Francisco <br>
 * ❤️ Coding, travelling, and gaming <br>
-* ✉️ Let's chat <br>
+* 💬 Let's chat <br>
 
 
 ## Projects
