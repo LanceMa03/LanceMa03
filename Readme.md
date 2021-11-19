@@ -12,7 +12,7 @@
 
 ## Projects
 
-🌐 [College Database Webscraper](https://github.com/LanceMa03/CollegeDatabaseWebScraper)
+* 🌐 [College Database Webscraper](https://github.com/LanceMa03/CollegeDatabaseWebScraper)
 
 ## Languges
 
