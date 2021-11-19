@@ -11,6 +11,8 @@ Hi, I'm Lance. I'm a first year student here at Purdue University majoring in co
 
 ## Languges
 
+![Jave Icon](java.png)
+
 [![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=LanceMa03)](https://github.com/anuraghazra/github-readme-stats) 
 
 
