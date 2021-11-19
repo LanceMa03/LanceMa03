@@ -3,7 +3,7 @@
 ![SF!](1622401392080.jpg)
 
 ## About Me 👦
-* 💼 Student at Purdue University <br>
+* 💼 Student at [Purdue University](https://www.purdue.edu/) <br>
 
 * 🏠 San Francisco <br>
 * ❤️ Coding, travelling, and gaming <br>
