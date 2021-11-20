@@ -1,7 +1,4 @@
-# Welcome! 👋
-
-![SF!](1622401392080.jpg)
-
+# Hi, I'm Lance! 👋
 ## About Me 👦
 * 💼 Student at [Purdue University](https://www.purdue.edu/) <br>
 
@@ -14,7 +11,7 @@
 
 * 🌐 [College Database Webscraper](https://github.com/LanceMa03/CollegeDatabaseWebScraper)
 
-## Languges
+## Languges and Tools:
 
 ![Java Icon](java.png) ![Python Icon](python.png) ![HTML Icon](html.png) ![CSS Icon](css.png) 
 
