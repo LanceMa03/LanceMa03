@@ -1,5 +1,5 @@
 # Hi, I'm Lance! 👋
-## About Me 👦
+## About Me
 * 💼 Student at [Purdue University](https://www.purdue.edu/) <br>
 
 * 🏠 San Francisco <br>
