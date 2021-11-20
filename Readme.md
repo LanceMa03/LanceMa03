@@ -1,4 +1,4 @@
-# Hi, I'm Lance! 👋
+**Hi, I'm Lance! 👋**
 ## About Me
 * 💼 Student at [Purdue University](https://www.purdue.edu/) <br>
 
