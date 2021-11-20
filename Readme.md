@@ -4,7 +4,7 @@
 
 * 🏠 San Francisco <br>
 * ❤️ Coding, travelling, and gaming <br>
-* 💬 Let's chat <br>
+* 
 
 
 ## Projects
