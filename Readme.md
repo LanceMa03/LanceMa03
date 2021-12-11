@@ -4,7 +4,6 @@ I'm a first year student at Purdue University majoring in computer science. Grow
 ## Projects
 
 * 🌐 [College Database Webscraper](https://github.com/LanceMa03/CollegeDatabaseWebScraper)
-* 💬 [Java Chat Application](https://github.com/LanceMa03/Chat-Application) (Currently working on)
 
 ## Languges and Tools:
 
