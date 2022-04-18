@@ -1,6 +1,6 @@
 ### **Hi, I'm Lance! 👋**
 ## About Me
-I'm a first year student at Purdue University majoring in computer science. Growing up in San Francisco, I've been fascinated with the growing tech industry in front of my eyes combined with my passion for computers and video games, I knew that I wanted to pursue my degree in computer science. My current hobbies are gaming, traveling, and coding. I am currently learning C and aspire to become a software engineer. If you want to learn more, check out my [website](https://lancema03.github.io/).
+I'm a first year student at Purdue University majoring in computer science. Growing up in San Francisco, I've been fascinated with the growing tech industry in front of my eyes combined with my passion for computers and video games, I knew that I wanted to pursue my degree in computer science. My current hobbies are drinking ridiculous cups of coffee, traveling, and coding. I am currently learning C and aspire to become a software engineer. If you want to learn more, check out my [website](https://lancema03.github.io/).
 ## Projects
 
 * 🏫 [College Database Webscraper](https://github.com/LanceMa03/CollegeDatabaseWebScraper)
