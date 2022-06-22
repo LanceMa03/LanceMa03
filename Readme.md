@@ -5,7 +5,7 @@ I'm a first year student at Purdue University majoring in computer science. Grow
 
 * 🏫 [College Database Webscraper](https://github.com/LanceMa03/CollegeDatabaseWebScraper)
 * 🌐 [Personal Website](https://lancema03.github.io/)
-* 📵 [Social Media Blocker Chrome Extention](https://github.com/LanceMa03/Social-Media-Blocker)
+* 📵 [Website Blocker Chrome Extention](https://github.com/LanceMa03/Website-Blocker-Chrome-Extension)
 
 ## Languges and Tools:
 
