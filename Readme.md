@@ -4,7 +4,7 @@ I'm a Computer Science major at Purdue University with a concentration in Softwa
 
 ## Languges and Tools:
 
-![Java Icon](images/java.png) ![Python Icon](images/python.png) ![C Icon](images/c.png) ![HTML Icon](images/html.png) ![CSS Icon](images/css.png) ![Git Icon](images/git.png)
+![Java Icon](images/java.png) ![Python Icon](images/python.png) ![C Icon](images/c.png) ![HTML Icon](images/html.png) ![CSS Icon](images/css.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanceMa03&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
